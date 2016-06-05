@@ -15,6 +15,7 @@ How to use:
 2. run "python gomoku.py" in the terminal.
 
 Contact Email:
+
 chaofanyu2015@gmail.com
 
 feizhao2015@u.northwestern.edu
