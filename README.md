@@ -16,6 +16,9 @@ How to use:
 
 Contact Email:
 chaofanyu2015@gmail.com
+
 feizhao2015@u.northwestern.edu
+
 yuntuowang2015@u.northwestern.edu
+
 qianwang2015@u.northwestern.edu
